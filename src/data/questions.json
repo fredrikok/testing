@@ -1,0 +1,50 @@
+[
+{
+  "title": "Hvor mange timer er det i en dag?",
+  "answers": [
+    { "answere": "6",  "correct": false  },
+    { "answere": "8",  "correct": false  },
+    { "answere": "12", "correct": false },
+    { "answere": "24", "correct": true  }
+  ],
+  "helper": {
+    "text": "en halv dag tar 12 timer"
+  }
+},
+{
+  "title": "Hva heter den magiske hunden som biter av folk øret?",
+  "answers": [
+    { "answere": "John" },
+    { "answere": "Magic Mike" },
+    { "answere": "Elton Jhon", "correct": true  },
+    { "answere": "Eric"}
+  ],
+  "helper": {
+    "text": "Laga rocket man"
+  }
+},
+{
+  "title": "Hva er Velkommen på Polsk?",
+  "answers": [
+    { "answere": "Witaj", "correct": true  },
+    { "answere": "Dzien Dobry" },
+    { "answere": "Pa Pa" },
+    { "answere": "Prezesepraszam"}
+  ],
+  "helper": {
+    "text": "Starter på W"
+  }
+},
+{
+  "title": "Hvorfor kan jeg ikke danse?",
+  "answers": [
+    { "answere": "Dansing er lett 😎" },
+    { "answere": "Vet ikke" },
+    { "answere": "fordi 2+2 er 4" },
+    { "answere": "Fordi det er noe man må øve masse på", "correct": true }
+  ],
+  "helper": {
+    "text": "Dansing er en skill. Akkurat som koding."
+  }
+}
+]
